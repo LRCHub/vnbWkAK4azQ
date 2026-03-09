@@ -1,0 +1,360 @@
+{
+  "version": 1,
+  "base_track": "OH MY GOD",
+  "base_artist": "SHHis",
+  "createdAt": "2026-03-09T05:25:05.065356Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "OMG (Oh My God)",
+      "artist": "Girls' Generation - TTS",
+      "has_synced": true,
+      "path": "select/01_OMG_(Oh_My_God)_Girls'_Generation_-_TTS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "OMG (Oh My God)",
+      "artist": "Girls' Generation-TTS",
+      "has_synced": true,
+      "path": "select/02_OMG_(Oh_My_God)_Girls'_Generation-TTS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Oh My God",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/03_Oh_My_God_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Oh My God - Remix",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/04_Oh_My_God_-_Remix_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Oh My God (Remix)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/05_Oh_My_God_(Remix)_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Oh My God",
+      "artist": "Lil Keed",
+      "has_synced": true,
+      "path": "select/06_Oh_My_God_Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Oh My God",
+      "artist": "Lil Durk",
+      "has_synced": false,
+      "path": "select/07_Oh_My_God_Lil_Durk.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Oh My God (Prod. by Norway, Paris Beuller)",
+      "artist": "Lil Durk",
+      "has_synced": false,
+      "path": "select/08_Oh_My_God_(Prod._by_Norway,_Paris_Beuller)_Lil_Durk.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Oh My God",
+      "artist": "Sevdaliza",
+      "has_synced": true,
+      "path": "select/09_Oh_My_God_Sevdaliza.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Oh My God (Sleepnet X Sevdaliza Remix)",
+      "artist": "Sevdaliza feat. Sleepnet",
+      "has_synced": false,
+      "path": "select/10_Oh_My_God_(Sleepnet_X_Sevdaliza_Remix)_Sevdaliza_feat._Sleepnet.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Show (Oh My God! remix)",
+      "artist": "Doug E. Fresh & The Get Fresh Crew",
+      "has_synced": false,
+      "path": "select/11_The_Show_(Oh_My_God!_remix)_Doug_E._Fresh_&_The_Get_Fresh_Crew.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Oh My God I Think I Like You - Commentary",
+      "artist": "Crazy Ex-Girlfriend Cast",
+      "has_synced": false,
+      "path": "select/12_Oh_My_God_I_Think_I_Like_You_-_Commentary_Crazy_Ex-Girlfriend_Cast.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Oh My God",
+      "artist": "Le Kid",
+      "has_synced": true,
+      "path": "select/13_Oh_My_God_Le_Kid.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Oh My God",
+      "artist": "St. Vincent",
+      "has_synced": true,
+      "path": "select/14_Oh_My_God_St._Vincent.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Oh My God",
+      "artist": "P!nk feat. Peaches",
+      "has_synced": true,
+      "path": "select/15_Oh_My_God_P!nk_feat._Peaches.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Oh My God (Feat Peaches)",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/16_Oh_My_God_(Feat_Peaches)_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Oh My God (Featuring Peaches)",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/17_Oh_My_God_(Featuring_Peaches)_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Oh Me, Oh My Sweet Baby",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/18_Oh_Me,_Oh_My_Sweet_Baby_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Oh Me, Oh My Sweet Baby (Album Version)",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/19_Oh_Me,_Oh_My_Sweet_Baby_(Album_Version)_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Oops (Oh My)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/20_Oops_(Oh_My)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Oops Oh My",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/21_Oops_Oh_My_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Oh My Gawd",
+      "artist": "Mr Eazi feat. Major Lazer, Nicki Minaj, K4mo & Diplo",
+      "has_synced": true,
+      "path": "select/22_Oh_My_Gawd_Mr_Eazi_feat._Major_Lazer,_Nicki_Minaj,_K4mo_&_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Oh My Gawd (feat. K4MO & Nicki Minaj)",
+      "artist": "Mr. Eazi & Major Lazer",
+      "has_synced": true,
+      "path": "select/23_Oh_My_Gawd_(feat._K4MO_&_Nicki_Minaj)_Mr._Eazi_&_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Oh, My Stars",
+      "artist": "Nina Nastasia",
+      "has_synced": false,
+      "path": "select/24_Oh,_My_Stars_Nina_Nastasia.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "My Oh My",
+      "artist": "Sad Café",
+      "has_synced": false,
+      "path": "select/25_My_Oh_My_Sad_Café.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "My Oh My",
+      "artist": "Aqua",
+      "has_synced": true,
+      "path": "select/26_My_Oh_My_Aqua.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "My Oh My (Disco 70's Mix)",
+      "artist": "Aqua",
+      "has_synced": true,
+      "path": "select/27_My_Oh_My_(Disco_70's_Mix)_Aqua.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "My Oh My (Extended Version)",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/28_My_Oh_My_(Extended_Version)_Aqua.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Oh God, Oh Dear",
+      "artist": "Ceo",
+      "has_synced": true,
+      "path": "select/29_Oh_God,_Oh_Dear_Ceo.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Oh God (Prayer)",
+      "artist": "Annie Lennox",
+      "has_synced": false,
+      "path": "select/30_Oh_God_(Prayer)_Annie_Lennox.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Oh God Where Are You Now? (In Pickerel Lake? Pigeon? Marquette? Mackinaw?)",
+      "artist": "Sufjan Stevens",
+      "has_synced": true,
+      "path": "select/31_Oh_God_Where_Are_You_Now__(In_Pickerel_Lake__Pigeon__Marquette__Mackinaw_)_Sufjan_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Oh God, Where Are You Now? (In Pickeral Lake? Pigeon? Marquette? Mackinaw?)",
+      "artist": "Sufjan Stevens",
+      "has_synced": true,
+      "path": "select/32_Oh_God,_Where_Are_You_Now__(In_Pickeral_Lake__Pigeon__Marquette__Mackinaw_)_Sufjan_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Oh GOD",
+      "artist": "Orla Gartland",
+      "has_synced": false,
+      "path": "select/33_Oh_GOD_Orla_Gartland.txt"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Oh God I Wish I Was Home Tonight",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/34_Oh_God_I_Wish_I_Was_Home_Tonight_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Oh God, I Wish I Was Home Tonight",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/35_Oh_God,_I_Wish_I_Was_Home_Tonight_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Oh God, I Wish I Was Home Tonight (Early Version)",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/36_Oh_God,_I_Wish_I_Was_Home_Tonight_(Early_Version)_Rod_Stewart.txt"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "Oh, God, I Wish I Was Home Tonight (Early Version)",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/37_Oh,_God,_I_Wish_I_Was_Home_Tonight_(Early_Version)_Rod_Stewart.txt"
+    },
+    {
+      "id": "lrclib_38",
+      "source": "lrclib",
+      "title": "Oh God",
+      "artist": "Jerskin Fendrix",
+      "has_synced": true,
+      "path": "select/38_Oh_God_Jerskin_Fendrix.lrc"
+    },
+    {
+      "id": "lrclib_39",
+      "source": "lrclib",
+      "title": "Oh God",
+      "artist": "Miya Folick",
+      "has_synced": true,
+      "path": "select/39_Oh_God_Miya_Folick.lrc"
+    },
+    {
+      "id": "lrclib_40",
+      "source": "lrclib",
+      "title": "Oh God, Where Are You Now? (In Pickeral Lake? Pigeon? Marquette? Mackinaw?)",
+      "artist": "Sufjan Stevens",
+      "has_synced": true,
+      "path": "select/40_Oh_God,_Where_Are_You_Now__(In_Pickeral_Lake__Pigeon__Marquette__Mackinaw_)_Sufjan_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_41",
+      "source": "lrclib",
+      "title": "Oh God",
+      "artist": "Jamie Cullum",
+      "has_synced": false,
+      "path": "select/41_Oh_God_Jamie_Cullum.txt"
+    },
+    {
+      "id": "lrclib_42",
+      "source": "lrclib",
+      "title": "Change My Heart Oh God",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/42_Change_My_Heart_Oh_God_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_43",
+      "source": "lrclib",
+      "title": "OH GOD",
+      "artist": "marinelli",
+      "has_synced": true,
+      "path": "select/43_OH_GOD_marinelli.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OH MY GOD",
+      "artist": "SHHis",
+      "has_synced": false,
+      "path": "select/pl_01_OH_MY_GOD_SHHis.txt"
+    }
+  ]
+}
